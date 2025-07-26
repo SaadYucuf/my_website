@@ -1,0 +1,27 @@
+{
+  "name": "Akbarshohdev - Odoo ERP Specialist",
+  "short_name": "Akbarshohdev",
+  "description": "Odoo ERP mutaxassisi. Bizneslarni raqamlashtirish va jarayonlarni optimallashtirish bo'yicha maxsus yechimlar.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["business", "productivity", "technology"],
+  "lang": "uz",
+  "dir": "ltr"
+} 
