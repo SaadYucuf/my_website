@@ -163,7 +163,7 @@ Bu loyiha MIT litsenziyasi ostida tarqatiladi.
 ## 📞 Aloqa
 
 - **Telegram:** [@akbarshoh_dev](https://t.me/akbarshoh_dev)
-- **Email:** info@saadyucuf.uz
+- **Email:** akbarshohdev@gmail.com
 - **Website:** [saadyucuf.uz](https://saadyucuf.uz)
 
 ---
